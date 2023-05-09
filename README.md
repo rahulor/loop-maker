@@ -24,10 +24,8 @@ streamlit run Home.py
 ```
 
 ## LoopMaker in action
-
-
 <p align="center">
-  <img width="650" src="https://github.com/rahulor/loop-maker/assets/69508071/26661195-46c5-4cdb-adb9-6399a7860858" alt>
+  <img width="650" src="https://github.com/rahulor/loop-maker/assets/69508071/6063efea-d195-4e94-a1ba-1759d1181e26" alt>
 </p>
 <p align="center">
 LoopMaker effortlessly create stunning 3D loops with just a click of a button.
