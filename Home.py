@@ -145,7 +145,7 @@ def create_the_main_page(xyz):
      st.plotly_chart(fig)
      
 def create_refresh_buttons():
-     st.write('🔄  Refresh coordinates')
+     #st.write('🔄  Refresh coordinates')
      st.write('Refresh coordinates')
      col2, col3, col4 = st.columns([1,1,1], gap="small")
      st.write("""
