@@ -1,8 +1,10 @@
 import streamlit as st
 
 st.write("""
-         (What's next.. ) 
+         # Multiple loops
          """)
+
 st.write("""
-          [This amazing topological invariant!](https://en.wikipedia.org/wiki/Linking_number#Gauss's_integral_definition)
+        Two loops can either be linked or unlinked. This leads to a numerical invariant called 
+        [linking number](https://linking-number.streamlit.app/).
         """)
