@@ -18,3 +18,8 @@ st.write("""
           The resulting loop is a random sample from the _space_ of all possible loops. However, not every sample is drawn through 
           this constrained approach, and we make no such claims. Good luck! 
                """)
+
+st.write("""
+Source code is available at 
+[https://github.com/rahulor/loop-maker](https://github.com/rahulor/loop-maker).
+""")
